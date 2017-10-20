@@ -6,10 +6,17 @@ body{
 	line-height: 1.5;
 	margin: 0;
 }
-h1, h2, h3{
+h1{
 	text-transform: uppercase;
 	font-weight: 300;
 }
+
+h2, h3{
+	text-transform: uppercase;
+	font-weight: 300;
+	font-weight: bold;
+}
+
 header {
 	text-align: center;
 	color: white;
